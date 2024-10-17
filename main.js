@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 document.getElementById('test')
 .addEventListener('click',()=>{
     alert('pop up');
@@ -12,4 +10,3 @@ talbeau.forEach((numero, index)=>{
         console.log(numero + tableau[index+1]);
     }
 })
->>>>>>> ab91c03e32e9565c3d63715185c773b3732950a2
