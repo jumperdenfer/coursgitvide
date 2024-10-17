@@ -1,5 +1,6 @@
 p{
     color: var(--my-theme);
+    flex-grow: 4;
 }
 
 :root{
@@ -8,4 +9,9 @@ p{
 img{
     max-width: 100vw;
     height: auto;
+}
+
+.flexbox{
+    display: flex;
+    flex-wrap: wrap;
 }
