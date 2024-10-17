@@ -2,9 +2,6 @@ Hello world
 sunshine
 crocodile
 pain au chocolat
-aime moi
-voiture
-blabla
-lolo
 coucou
 test2
+Toulouse
