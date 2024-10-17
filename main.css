@@ -2,6 +2,6 @@ p{
     color: var(--my-theme);
 }
 
-::root{
+:root{
     --my-theme: blue; 
 }
