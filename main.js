@@ -10,3 +10,4 @@ talbeau.forEach((numero, index)=>{
         console.log(numero + tableau[index+1]);
     }
 })
+
