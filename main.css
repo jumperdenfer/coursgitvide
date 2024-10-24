@@ -15,3 +15,7 @@ img{
     display: flex;
     flex-wrap: wrap;
 }
+.test{
+    border: 1px solid rgb(165, 165, 235);
+    background-color: burlywood;
+}
