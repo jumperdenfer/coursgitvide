@@ -13,7 +13,9 @@ services:
   php:
     container_name: php-container
     hostname: php
-    build: php:fpm-alpine
+    build: 
+      context: .
+      dockerfile: php_code/Dockerfile
     networks:
       - internal
     volumes:
