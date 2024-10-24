@@ -13,8 +13,8 @@ services:
   php:
     container_name: php-container
     hostname: php
-    build:
-      context: 
+    build: 
+      context: .
       dockerfile: php_code/Dockerfile
     networks:
       - internal
