@@ -14,8 +14,9 @@ img{
 .flexbox{
     display: flex;
     flex-wrap: wrap;
+    text-align: center;
 }
-.test{
+#test{
     border: 1px solid rgb(165, 165, 235);
     background-color: burlywood;
 }
