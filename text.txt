@@ -1,0 +1,4 @@
+changer l'image (+légère)
+supprimer la pop-up au click
+mettre du style sur le text hello world afin de le transformer en bouton
+changer le titre de la page et ajouter un favicon
